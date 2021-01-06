@@ -12,13 +12,25 @@ div {
     color: #ffffff;
     
 }
-
+h1 {
+    margin-top: 5%;
+}
 h1, nav {
-    text-align: center;
+    text-align: center; 
+}
+
+nav {
+    width: 90%;
+    margin: 0 auto;
+    border-bottom-style: solid;
+    border-color: #777777;
+    border-width: 1px;
+    padding-bottom: 5%;
 }
 
 a {
     color: #7fc99d;
+    font-weight: bolder;
 }
 
 .active {
@@ -26,7 +38,14 @@ a {
 }
 
 footer {
-    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center; 
+    padding-bottom: 5%;
+    padding-top: 5%;
+    border-top-style: solid;
+    border-color: #777777;
+    border-width: 1px;
 }
 
 img {
@@ -34,8 +53,13 @@ img {
     width: 40%;
  /*   margin-left: 55%; */
     float: right;
-    padding-right: 5%;
-    padding-left: 30px;
+    margin-right: 5%;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    padding: 5px;
+    border-style: solid;
+    border-color: #777777;
+    border-width: 1px;
 }
 
 p {
