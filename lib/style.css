@@ -13,6 +13,7 @@ div {
     
 }
 h1 {
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-top: 5%;
 }
 h1, nav {
@@ -26,6 +27,8 @@ nav {
     border-color: #777777;
     border-width: 1px;
     padding-bottom: 5%;
+    color: #959595;
+    font-weight: bold;
 }
 
 a {
@@ -46,11 +49,13 @@ footer {
     border-top-style: solid;
     border-color: #777777;
     border-width: 1px;
+    color: #959595;
+    font-weight: bold;
 }
 
 img {
     display: flex;
-    width: 40%;
+    width: 41%;
  /*   margin-left: 55%; */
     float: right;
     margin-right: 5%;
