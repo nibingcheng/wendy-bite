@@ -1,0 +1,50 @@
+body {
+    background-color: #444444;
+}
+
+div {    
+    width: 90%;
+    margin: 0 auto;
+    border-style: solid;
+    border-color: #777777;
+    border-width: 5px;
+    text-align: left;
+    color: #ffffff;
+    
+}
+
+h1, nav {
+    text-align: center;
+}
+
+a {
+    color: #7fc99d;
+}
+
+.active {
+    color: #ffffff;
+}
+
+footer {
+    text-align: center;
+}
+
+img {
+    display: flex;
+    width: 40%;
+ /*   margin-left: 55%; */
+    float: right;
+    padding-right: 5%;
+    padding-left: 30px;
+}
+
+p {
+    width: 85%;
+    font-size: 2em;
+    padding-left: 5%;
+}
+
+h2 {
+    padding-left: 5%;
+    font-size: 3em;
+}
